@@ -51,7 +51,7 @@ Thank you and please reach out if you have any inquiries.
 
 🐦  [@TypeScriptCali](https://twitter.com/TypeScriptCali)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
 <!-- (https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) -->
 
